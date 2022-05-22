@@ -1,5 +1,5 @@
 <script setup>
-    import HomeCompo from './HomeCompo.vue'
+    import HomeCompo1 from './HomeCompo1.vue'
     import HomeCompo2 from './HomeCompo2.vue'
     import WelcomeItem from './WelcomeItem.vue'
 </script>
@@ -7,7 +7,7 @@
 
 
 <template>
-    <HomeCompo>
+    <HomeCompo1>
         <template #title >
             HANDCRAFTED WITH LOVE    
         </template>
@@ -17,7 +17,7 @@
         <template #img >
             <img src="src\assets\mand made.jpg" alt="">
         </template>
-    </HomeCompo>
+    </HomeCompo1>
     <HomeCompo2>
         <template #title >
             CREATE TEXTURED LAYERS WITH THROWS AND BLANKETS     
@@ -29,7 +29,7 @@
             <img src="src\assets\mand made.jpg" alt="">
         </template>
     </HomeCompo2>
-    <HomeCompo>
+    <HomeCompo1>
         <template #title >
             LIGHT UP CANDLES    
         </template>
@@ -39,7 +39,7 @@
         <template #img >
             <img src="src\assets\mand made.jpg" alt="">
         </template>
-    </HomeCompo>
+    </HomeCompo1>
     <HomeCompo2>
         <template #title >
             CREATE TEXTURED LAYERS WITH THROWS AND BLANKETS     
@@ -51,7 +51,7 @@
             <img src="src\assets\mand made.jpg" alt="">
         </template>
     </HomeCompo2>
-    <HomeCompo>
+    <HomeCompo1>
         <template #title >
             LIGHT UP CANDLES    
         </template>
@@ -61,5 +61,5 @@
         <template #img >
             <img src="src\assets\mand made.jpg" alt="">
         </template>
-    </HomeCompo>
+    </HomeCompo1>
 </template>

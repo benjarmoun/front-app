@@ -21,13 +21,13 @@ export default {
                 <router-link to="/" class="box-border inline-block text-center text-indigo-900 no-underline bg-transparent cursor-pointer hover:text-blue-700 focus:no-underline">
                     Home
                 </router-link>
-                <router-link to="/about" class="box-border inline-block text-center text-indigo-900 no-underline bg-transparent cursor-pointer hover:text-blue-700 focus:no-underline">
-                    Features
+                <router-link to="/shop" class="box-border inline-block text-center text-indigo-900 no-underline bg-transparent cursor-pointer hover:text-blue-700 focus:no-underline">
+                    Shop
                 </router-link>
                 <router-link to="#_" class="box-border inline-block text-center text-indigo-900 no-underline bg-transparent cursor-pointer hover:text-blue-700 focus:no-underline">
                     Pricing
                 </router-link>
-                <router-link to="#_" class="box-border inline-block text-center text-indigo-900 no-underline bg-transparent cursor-pointer hover:text-blue-700 focus:no-underline">
+                <router-link to="/about" class="box-border inline-block text-center text-indigo-900 no-underline bg-transparent cursor-pointer hover:text-blue-700 focus:no-underline">
                     About
                 </router-link>
             </div>

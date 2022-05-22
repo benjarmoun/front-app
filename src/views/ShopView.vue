@@ -1,18 +1,18 @@
 <script >
 
 import LoginForm from '../components/LoginForm.vue';
-import Products from '../components/Products.vue';
+import Shop from '../components/Shop.vue';
 export default {
-    name: 'ProductsView',
+    name: 'ShopView',
     components: {
-    Products,
+    Shop,
 }
 };	
 
 </script>
 
 <template>
-    <Products />
+    <Shop />
 </template>
 
 

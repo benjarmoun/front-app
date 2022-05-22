@@ -28,10 +28,15 @@ const router = createRouter({
       component: () => import('../views/Login.vue')
     },
     {
-      path: '/Products',
-      name: 'products',
-      component: () => import('../views/ProductsView.vue')
+      path: '/Shop',
+      name: 'shop',
+      component: () => import('../views/ShopView.vue')
     },
+    // {
+    //   path: '/Products',
+    //   name: 'products',
+    //   component: () => import('../views/ProductsView.vue')
+    // },
     {
       path: '/logout',
       name: 'logout',
