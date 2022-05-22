@@ -14,7 +14,7 @@ export default {
         <div class="box-border flex flex-col flex-wrap items-center justify-between text-indigo-900 md:flex-row">
             <div class="relative z-10 flex items-center w-auto px-4 leading-10 lg:flex-grow-0 lg:flex-shrink-0 lg:text-left">
                 <router-link to="#_" class="box-border inline-block font-sans text-2xl font-bold text-left text-indigo-900 no-underline bg-transparent cursor-pointer focus:no-underline">
-                    tails.
+                    Maroc Artisan
                 </router-link>
             </div>
             <div class="relative left-0 z-0 flex justify-center w-full px-4 mt-4 space-x-6 font-medium leading-10 md:mt-0 md:absolute lg:space-x-8 md:flex-grow-0 md:text-left lg:text-center">
