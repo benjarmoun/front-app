@@ -56,7 +56,7 @@ export default {
                             </Product> -->
                         
                         
-                        <!-- <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
+                        <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
                             <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80" alt="T-Shirt">
                             <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-gray-200">Printed T-shirt</h4>
                             <p class="text-blue-500">$12.55</p>
@@ -67,9 +67,9 @@ export default {
                                 </svg>
                                 <span class="mx-1">Add to cart</span>
                             </button>
-                        </div> -->
+                        </div>
 
-                        <!-- <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
+                        <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
                             <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80" alt="T-Shirt">
                             <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-gray-200"> Slub jersey T-shirt</h4>
                             <p class="text-blue-500">$18.70</p>
@@ -106,7 +106,7 @@ export default {
                                 </svg>
                                 <span class="mx-1">Add to cart</span>
                             </button>
-                        </div> -->
+                        </div>
 
                         <!-- <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
                             <slot name="p_pic"></slot>

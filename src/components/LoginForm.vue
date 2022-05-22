@@ -85,7 +85,7 @@
 							<div class="text-center">
 								<a
 									class="inline-block text-sm text-blue-500 align-baseline hover:text-blue-800"
-									href="./index.html"
+									href="./register"
 								>
 									Don't have an account? Register!
 								</a>
